@@ -1,2 +1,2 @@
-TOKEN = '6790483186:AAHtnY74lnwkE0kB1Lm1AA3iUvXzZTdFG0U'
-KEY = 'bf7a29d7b0907bc8a6b864c8866c280d'
+TOKEN = 'Your token'
+KEY = 'Openweather Key'
